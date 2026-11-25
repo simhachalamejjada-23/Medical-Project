@@ -1,0 +1,7 @@
+Model,AUC
+Logistic Regression,0.996
+Random Forest,0.995
+Gradient Boosting,0.9934
+SVM,0.9927
+KNN,0.9825
+Decision Tree,0.9246
